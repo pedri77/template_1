@@ -41,13 +41,13 @@ Ahora usa el módulo Reboot para tener todos los selectores genéricos y estilos
 En esta nueva versión desaparece Normalize.css en favor de [Reeboot](http://v4-alpha.getbootstrap.com/content/reboot/)
 
 
-## Docuemtación
+## Documentación
 
-[Docs](http://v4-alpha.getbootstrap.com/getting-started/introduction/)
-[Ejemplos](http://v4-alpha.getbootstrap.com/examples/)
-[Temas](https://themes.getbootstrap.com)
+* [Docs](http://v4-alpha.getbootstrap.com/getting-started/introduction/)
+* [Ejemplos](http://v4-alpha.getbootstrap.com/examples/)
+* [Temas](https://themes.getbootstrap.com)
 
 ## Enlaces
 
-[FUNNYFRONTEND](http://funnyfrontend.com/bootstrap-4-alpha-novedades-y-ejemplos/)
-[Get Starter](http://v4-alpha.getbootstrap.com/getting-started/introduction/)
+* [FUNNYFRONTEND](http://funnyfrontend.com/bootstrap-4-alpha-novedades-y-ejemplos/)
+* [Get Starter](http://v4-alpha.getbootstrap.com/getting-started/introduction/)
